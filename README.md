@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am the top contributor of Robomongo - ( my other work account: https://github.com/simsekgokhan )
+
+Senior software engineer experienced with mostly Rust and C++/Qt, and also Solidity, Move, Python, C, TypeScript/JavaScript.
+
+
+
 <!--
 **gsimsekfb/gsimsekfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
