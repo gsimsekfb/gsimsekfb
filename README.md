@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am the top contributor of Robomongo - ( my other work account: https://github.com/simsekgokhan )
+I am one of the top contributors of [Robomongo](https://github.com/gsimsekfb/robomongo/graphs/contributors) - ( my other work account: https://github.com/simsekgokhan )
 
 Senior software engineer experienced with mostly Rust and C++/Qt, and also Solidity, Move, Python, C, TypeScript/JavaScript.
 
