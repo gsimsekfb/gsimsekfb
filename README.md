@@ -3,6 +3,7 @@
 I am one of the top contributors of open-source MongoDB admin tool [Robomongo](https://github.com/Studio3T/robomongo/graphs/contributors) - ( my other work account: https://github.com/simsekgokhan )
 
 Senior software engineer experienced with mostly Rust and C++/Qt, and also Solidity, Move, Python, C, TypeScript/JavaScript.
+I am a lucky person because my work is also my hobby, I love and enjoy every moment.
 
 
 <!--
