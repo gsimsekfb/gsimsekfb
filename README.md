@@ -3,8 +3,10 @@
 I am one of the top contributors (and was the maintainer/lead developer) of famous (9.4k stars) open-source cross-platform MongoDB management tool -> [Robomongo contributors](https://github.com/Studio3T/robomongo/graphs/contributors) and [Robomongo](https://github.com/Studio3T/robomongo/) - (my previous work account: https://github.com/simsekgokhan)
 
 Senior software engineer experienced with blockchain, backend, Actix Web, tokio, p2p networking, Rust and C++/Qt, and also Solidity, Move, Python, C, TypeScript/JavaScript.
-I am a lucky person because my work is also my hobby, I love and enjoy every moment.
+I am a lucky person because my work is also my hobby, I love and enjoy every moment.  
 
+Linkedin: https://www.linkedin.com/in/g%C3%B6khan-simsek-04522627/   
+Email: gokhansimsek34@yahoo.com  
 
 <!--
 **gsimsekfb/gsimsekfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
